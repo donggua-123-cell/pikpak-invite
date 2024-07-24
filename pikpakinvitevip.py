@@ -576,5 +576,4 @@ if __name__ == '__main__':
     # 获取用户输入的邀请码
     incode = input('请输入邀请码:')
     # 调用main函数，传入邀请码和EMAIL_CHOOSE变量
-    
     main(incode, EMAIL_CHOOSE)
